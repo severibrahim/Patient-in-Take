@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb80917f-adb4-4ed0-a834-a1c5b5c02d31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="336" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvKUj5Diuov6o8aneOGDZLHlxk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javax.mail.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ibose\IdeaProjects\patientintake\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibose\IdeaProjects\patientintake\src" />
+      <recent name="C:\Users\ibose\IdeaProjects\patientintake" />
+      <recent name="C:\Users\ibose\IdeaProjects\patientintake\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in patientintake">
+    <configuration name="ClinicMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patientintake.ClinicMain" />
+      <module name="patientintake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patientintake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in patientintake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="patientintake" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClinicCalendarShould$HasAppointments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="patientintake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patientintake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patientintake" />
+      <option name="MAIN_CLASS_NAME" value="patientintake.ClinicCalendarShould$HasAppointments" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClinicCalendarShould$HasAppointments.returnFalseForHasAppointmentsIfThereAreNoAppointments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="patientintake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patientintake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patientintake" />
+      <option name="MAIN_CLASS_NAME" value="patientintake.ClinicCalendarShould$HasAppointments" />
+      <option name="METHOD_NAME" value="returnFalseForHasAppointmentsIfThereAreNoAppointments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClinicCalendarShould$HasAppointments.returnTrueForHasAppointmentsIfThereAreAppointments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="patientintake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patientintake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patientintake" />
+      <option name="MAIN_CLASS_NAME" value="patientintake.ClinicCalendarShould$HasAppointments" />
+      <option name="METHOD_NAME" value="returnTrueForHasAppointmentsIfThereAreAppointments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in patientintake" />
+        <item itemvalue="Application.ClinicMain" />
+        <item itemvalue="JUnit.ClinicCalendarShould$HasAppointments.returnFalseForHasAppointmentsIfThereAreNoAppointments" />
+        <item itemvalue="JUnit.ClinicCalendarShould$HasAppointments.returnTrueForHasAppointmentsIfThereAreAppointments" />
+        <item itemvalue="JUnit.ClinicCalendarShould$HasAppointments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb80917f-adb4-4ed0-a834-a1c5b5c02d31" name="Default Changelist" comment="" />
+      <created>1581921145408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581921145408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1581921886262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581921886262" />
+    <state width="1921" height="356" key="GridCell.Tab.0.bottom" timestamp="1588663294504">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1537" height="375" key="GridCell.Tab.0.bottom/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@-1920.-33.1536.832" timestamp="1582049035141" />
+    <state width="1921" height="375" key="GridCell.Tab.0.bottom/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581922257203" />
+    <state width="1921" height="356" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294504" />
+    <state width="1532" height="377" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@1920.0.1536.832" timestamp="1586406544815" />
+    <state width="1921" height="356" key="GridCell.Tab.0.center" timestamp="1588663294504">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1537" height="375" key="GridCell.Tab.0.center/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@-1920.-33.1536.832" timestamp="1582049035140" />
+    <state width="1921" height="375" key="GridCell.Tab.0.center/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581922257202" />
+    <state width="1921" height="356" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294504" />
+    <state width="1532" height="377" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@1920.0.1536.832" timestamp="1586406544815" />
+    <state width="1921" height="356" key="GridCell.Tab.0.left" timestamp="1588663294504">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1537" height="375" key="GridCell.Tab.0.left/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@-1920.-33.1536.832" timestamp="1582049035140" />
+    <state width="1921" height="375" key="GridCell.Tab.0.left/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581922257202" />
+    <state width="1921" height="356" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294504" />
+    <state width="1532" height="377" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@1920.0.1536.832" timestamp="1586406544814" />
+    <state width="1921" height="356" key="GridCell.Tab.0.right" timestamp="1588663294504">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1537" height="375" key="GridCell.Tab.0.right/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@-1920.-33.1536.832" timestamp="1582049035140" />
+    <state width="1921" height="375" key="GridCell.Tab.0.right/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581922257202" />
+    <state width="1921" height="356" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294504" />
+    <state width="1532" height="377" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@1920.0.1536.832" timestamp="1586406544815" />
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1588663294232">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294232" />
+    <state width="1921" height="356" key="GridCell.Tab.1.center" timestamp="1588663294232">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294232" />
+    <state width="1921" height="356" key="GridCell.Tab.1.left" timestamp="1588663294232">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294232" />
+    <state width="1921" height="356" key="GridCell.Tab.1.right" timestamp="1588663294232">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663294232" />
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1581921835499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581921835499" />
+    <state x="-1480" y="97" key="SettingsEditor" timestamp="1588663281472">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/-1920.-33.1536.832/1920.0.1920.1040/556.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581921889411" />
+    <state x="-1480" y="97" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588663281472" />
+    <state x="-1252" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1587205250441">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1252" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1587205250441" />
+    <state x="-3172" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-3840.0.1920.1040" timestamp="1586641395874" />
+    <state x="-1136" y="360" key="export.test.results" timestamp="1588660158612">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1136" y="360" key="export.test.results/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588660158612" />
+    <state x="-1304" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1588653998196">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="173" width="672" height="676" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588653998196" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/patientintake$All_in_patientintake.ic" NAME="All in patientintake Coverage Results" MODIFIED="1588663171283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/patientintake$ClinicCalendarShould_HasAppointments_returnFalseForHasAppointmentsIfThereAreNoAppointments.ic" NAME="ClinicCalendarShould$HasAppointments.returnFalseForHasAppointmentsIfThereAreNoAppointments Coverage Results" MODIFIED="1588659997708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>patientintake.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/patientintake$ClinicMain.ic" NAME="ClinicMain Coverage Results" MODIFIED="1588663125757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>patientintake.*</FILTER>
+    </SUITE>
+  </component>
+</project>
